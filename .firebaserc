@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "postersgallery-2604a"
+  },
+  "targets": {
+    "postersgallery-2604a": {
+      "hosting": {
+        "posters_gallery": [
+          "poster-gallery"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+.footer{
+    background-color: rgb(255, 238, 0);
+    height: 70px;
+    bottom: 0;
+    position: relative;
+}
+
+.footer_content{
+    position: absolute;
+    margin-left: 700px;
+    padding-top: 25px;
+    font-style: italic;
+    font-size: large;
+    font-weight: 400;
+    font-family: Georgia;
+}
+
